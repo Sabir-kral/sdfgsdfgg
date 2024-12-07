@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    margin: 250px auto;
+    width: fit-content;
+background-color: azure;
+}
+label,input{
+    display: block;
+    margin: 15px;
+}
+label{
+    text-align: center;
+}
+input{
+    margin: 0 auto;
+}
+button{
+    width: 90px;
+height: 50px;
+border: none;
+border-radius: 2px;
+background-color: blue;
+color: white;
+margin: 50px auto;
+display: block;
+}
